@@ -1,0 +1,15 @@
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\bin\Debug\net6.0\AllPermutations.exe
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\bin\Debug\net6.0\AllPermutations.deps.json
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\bin\Debug\net6.0\AllPermutations.runtimeconfig.json
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\bin\Debug\net6.0\AllPermutations.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\bin\Debug\net6.0\AllPermutations.pdb
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\AllPermutations.csproj.AssemblyReference.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\AllPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\AllPermutations.AssemblyInfoInputs.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\AllPermutations.AssemblyInfo.cs
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\AllPermutations.csproj.CoreCompileInputs.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\AllPermutations.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\refint\AllPermutations.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\AllPermutations.pdb
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\AllPermutations.genruntimeconfig.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\AllPermutations\obj\Debug\net6.0\ref\AllPermutations.dll

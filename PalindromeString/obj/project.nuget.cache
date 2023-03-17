@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oWwUVQnc5nX2r+hALkSTyPLL8bIsnxfDfoe3fcbZAC9qTdw+BSaq1SjZCj4QDjnbo7aIwJS8VQzizTjye1kYEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saide\\OneDrive\\Job Searching\\GitHub\\PalindromeString\\PalindromeString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saide\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}
