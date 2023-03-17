@@ -1,0 +1,15 @@
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\bin\Debug\net7.0\SumANumber.exe
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\bin\Debug\net7.0\SumANumber.deps.json
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\bin\Debug\net7.0\SumANumber.runtimeconfig.json
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\bin\Debug\net7.0\SumANumber.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\bin\Debug\net7.0\SumANumber.pdb
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\SumANumber.csproj.AssemblyReference.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\SumANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\SumANumber.AssemblyInfoInputs.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\SumANumber.AssemblyInfo.cs
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\SumANumber.csproj.CoreCompileInputs.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\SumANumber.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\refint\SumANumber.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\SumANumber.pdb
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\SumANumber.genruntimeconfig.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\TwoSum\obj\Debug\net7.0\ref\SumANumber.dll
